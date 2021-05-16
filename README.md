@@ -1,9 +1,7 @@
 # Pixel Art Maker Project
 
 ## Table of Contents
-
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+This project is for Intro to Programming Nanodegree Program
 
 ## Instructions
 
